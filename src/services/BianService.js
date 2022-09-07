@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BIAN_API_BASE_URL = "http://169.51.207.96:30667/api/v1/";
+const BIAN_API_BASE_URL = "http://192.168.0.113:8080/api/v1/";
 const LOGIN = 'login';
 const CREATE_ACCOUNT = 'createAccount';
 const ACCOUNT_DETAILS_BY_ID = 'accountDetailsById';
